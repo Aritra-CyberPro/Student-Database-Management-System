@@ -69,4 +69,7 @@ Make sure to keep the MySQL CLI running in BACKGROUD.
 
 
 ## License
-This project is licensed under the [MIT License](). See the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/main/LICENSE). See the LICENSE file for details.
+
+## Author
+[@Aritra](https://github.com/Aritra-CyberPro)
