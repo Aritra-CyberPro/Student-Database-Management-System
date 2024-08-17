@@ -54,8 +54,17 @@ The default login credentiial for **MySQL** are as follows **Username**: ```loca
 Make sure to keep the MySQL CLI running in BACKGROUD.
 
 ## Demo
-![Image Alt](image_url)
-
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20185933.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190035.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190151.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190300.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190331.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190344.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190423.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190439.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190455.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190623.png)
+![Image Alt](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/331d8131f1509259ad17ab37509b94ced521023b/Screenshot%202024-08-17%20190637.png)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/Aritra-CyberPro/Student-Database-Management-System/blob/main/LICENSE). See the LICENSE file for details.
