@@ -66,3 +66,7 @@ Make sure to keep the MySQL CLI running in BACKGROUD.
 ![Screenshot 2024-08-17 190455](https://github.com/user-attachments/assets/77cf8c6b-0bb2-40ac-b9e3-80fb308d6d22)
 ![Screenshot 2024-08-17 190623](https://github.com/user-attachments/assets/354582f4-8d00-4017-beeb-4b0991206868)
 ![Screenshot 2024-08-17 190637](https://github.com/user-attachments/assets/3c1d5b40-c468-41fd-831a-e78972d71be3)
+
+
+## License
+This project is licensed under the [MIT License](). See the LICENSE file for details.
