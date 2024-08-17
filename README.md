@@ -54,3 +54,15 @@ The default login credentiial for **MySQL** are as follows **Username**: ```loca
 Make sure to keep the MySQL CLI running in BACKGROUD.
 
 ## Demo
+
+![Screenshot 2024-08-17 185933](https://github.com/user-attachments/assets/3da29b5b-f938-4813-acfd-8001e749980a)
+![Screenshot 2024-08-17 190035](https://github.com/user-attachments/assets/dbbdacf3-b5f5-48eb-8ca4-67547eb68ffd)
+![Screenshot 2024-08-17 190151](https://github.com/user-attachments/assets/d998de2c-f225-4c47-ab13-f37104dc4877)
+![Screenshot 2024-08-17 190300](https://github.com/user-attachments/assets/00e8b7a1-a157-41bc-8795-4e6429d06ebd)
+![Screenshot 2024-08-17 190331](https://github.com/user-attachments/assets/9801aab1-eeed-43ac-afdb-191e8002a7ab)
+![Screenshot 2024-08-17 190344](https://github.com/user-attachments/assets/50642ece-0fbc-4423-85e4-89336cfd28e9)
+![Screenshot 2024-08-17 190423](https://github.com/user-attachments/assets/4cf5cbb1-1868-4d78-8c4e-1779474546a6)
+![Screenshot 2024-08-17 190439](https://github.com/user-attachments/assets/9df4f46e-e93f-4128-bb7e-517dcee32aa7)
+![Screenshot 2024-08-17 190455](https://github.com/user-attachments/assets/77cf8c6b-0bb2-40ac-b9e3-80fb308d6d22)
+![Screenshot 2024-08-17 190623](https://github.com/user-attachments/assets/354582f4-8d00-4017-beeb-4b0991206868)
+![Screenshot 2024-08-17 190637](https://github.com/user-attachments/assets/3c1d5b40-c468-41fd-831a-e78972d71be3)
